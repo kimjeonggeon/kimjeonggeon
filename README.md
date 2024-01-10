@@ -1,5 +1,5 @@
-# Welcome to my Github
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20welcome!%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ### Hi there I'm backend developer using java👋
 
@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ##skills ⚡
+ ##Tech stacks ⚡
 
-<img src="https://img.shields.io/badge/Javascript-#F7DF1E?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+
+
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
