@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
  ##Tech stacks ⚡
 
-<img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
 
 
 
