@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 #Language Uses↗️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjeonggeon&show_icons=true&bg_color=00000000&theme=${radical})
+![Jeonggeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjeonggeon&show_icons=true&bg_color=00000000&theme=${radical})
 
 
 ---
