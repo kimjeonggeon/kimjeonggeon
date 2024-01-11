@@ -13,9 +13,11 @@ Front-End
 
  
 Back-End
+
 <img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/springboot-%236DB33F?style=flat-square&logo=springboot&logoColor=white">
 
 Collaboration&Tools
+
 <img alt="Static Badge" src="https://img.shields.io/badge/intellij%20idea-%23000000?style=flat-square&logo=intellijidea&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/eclipseide-%20%232C2255?style=flat-square&logo=eclipseide&logoColor=white">
 
 
@@ -39,7 +41,7 @@ DevOps
 ---
 #Git status 💻
 
-[Jeonggeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjeonggeon&show_icons=true&bg_color=00000000)
+![Jeonggeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjeonggeon&show_icons=true&theme=radical)
 
 
 
