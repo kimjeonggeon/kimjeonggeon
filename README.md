@@ -22,7 +22,17 @@ Here are some ideas to get you started:
 ---
  ##Tech stacks ⚡
 
-<img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/springboot-%236DB33F?style=flat-square&logo=springboot&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/amazon%20aws-%23232F3E?style=flat-square&logo=aws&logoColor=black"><img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/jquery-%230769AD?style=flat-square&logo=jquery&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/amazon%20ec2-%20%23FF9900?style=flat-square&logo=css3&logoColor=white">
+Front-End
+
+ <img alt="Static Badge" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white">
+ 
+Back-End
+
+
+Collaboration&Tools
+
+
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F?style=flat-square&logo=spring&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/springboot-%236DB33F?style=flat-square&logo=springboot&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/amazon%20aws-%23232F3E?style=flat-square&logo=aws&logoColor=black"><img alt="Static Badge" src="https://img.shields.io/badge/github-%23181717?style=flat-square&logo=github&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/jquery-%230769AD?style=flat-square&logo=jquery&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/amazon%20ec2-%20%23FF9900?style=flat-square&logo=css3&logoColor=white">
 
 
 
