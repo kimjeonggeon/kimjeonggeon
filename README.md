@@ -2,8 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20hello!%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 
-## 🧑‍🎓"I majored in Accounting and Management, but now I'm studying       backend development."
-
+# 안녕하세요👋
+### 🧑‍🎓저는 회계경영을 전공하였고 현재는 백엔드 개발자가 되기 위하여 노력중인 '김정건' 입니다 
+  
+---
 
  ##Tech stacks ⚡
 
