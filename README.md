@@ -40,14 +40,6 @@ DevOps
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjeonggeon&layout=compact&theme=dark"/>
 
 
----
-#Git status 💻
-
-![Jeonggeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjeonggeon&show_icons=true&theme=radical)
-
-
-
-
 
 
 
